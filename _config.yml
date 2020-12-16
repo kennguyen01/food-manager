@@ -1,4 +1,4 @@
-baseurl: /jekyll-flashcards
+baseurl: /food-manager
 
 markdown: kramdown
 kramdown:
