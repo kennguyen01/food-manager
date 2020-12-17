@@ -28,3 +28,6 @@ title: Active Managerial Control
 
 9a. How to prepare for inspection
 9b. Perform self-inspections or hire third party inspection to identify and correct food safety violations.
+
+10a. Regulatory authority
+10b. A local government organization responsible for public health, such as county health department.
