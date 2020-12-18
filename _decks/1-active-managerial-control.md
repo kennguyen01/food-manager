@@ -75,7 +75,12 @@ title: Active Managerial Control
 20b. Help you khnow if workers follow safety principles at all times.
 
 21a. What to do during inspection
-21b. Ask for inspector's identification. Accompany the inspector and take notes. Make changes according to gaps in your active mangerial control.
+21b.
+```
+1. Ask for inspector's identification
+2. Accompany the inspector and take notes
+3. Make changes according to gaps in your active mangerial control
+```
 
 22a. How to prepare for inspection
 22b. Perform self-inspections or hire third party inspection to identify and correct food safety violations.
