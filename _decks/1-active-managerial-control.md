@@ -2,7 +2,7 @@
 title: Active Managerial Control
 ---
 
-1a. Active mangerial control
+1a. Active managerial control
 1b. A system to create food safety procedures and implement them.
 
 2a. Responsibility of food manager
@@ -30,9 +30,9 @@ title: Active Managerial Control
 ```
 
 6a. How to create policy
-6b. Identify food safety risks. For the biggest risk, create a standard operating procedure (SOP).
+6b. Create a standard operating procedure (SOP) for the biggest identified safety risk.
 
-7a. Questions for policy
+7a. Questions a policy need to answer
 7b. What, Why, How (Where and When), and What if.
 
 8a. How to train employees
@@ -66,12 +66,12 @@ title: Active Managerial Control
 17b. Asking employees to report their own actions. Involve workers more in the process.
 
 18a. Monitoring logs
-18b. Logs can become records to track progress and adjust procedures in the future. Keep workers accountable.
+18b. Written records to track progress and adjust procedures in the future. Keep workers accountable.
 
-19a. Planned inspection
+19a. Planned monitoring inspection
 19b. Offer special incentive for workers to learn how to do their jobs well.
 
-20a. Unplanned inspection
+20a. Unplanned monitoring inspection
 20b. Help you khnow if workers follow safety principles at all times.
 
 21a. What to do during inspection
@@ -79,7 +79,7 @@ title: Active Managerial Control
 ```
 1. Ask for inspector's identification
 2. Accompany the inspector and take notes
-3. Make changes according to gaps in your active mangerial control
+3. Make changes according to gaps in your active managerial control
 ```
 
 22a. How to prepare for inspection
@@ -88,11 +88,11 @@ title: Active Managerial Control
 23a. Regulatory authority
 23b. A local government organization responsible for public health, such as county health department.
 
-24a. Violations report
+24a. Worker-reported violations
 24b. Take employee-reported violations seriously. Take action to correct violation and prevent future occurrences.
 
-25a. Evaluate effectiveness
-25b. Look back at safety risks to see if your policy lessened it. Adjust and evaluate as needed.
+25a. Evaluate policy effectiveness
+25b. Analysis of safety risks to see if your policy lessened it. Adjust and evaluate as needed.
 
 26a. Hazard analysis and critical control point (HACCP)
 26b. Process used to identify and prevent hazards before they occur or to catch and correct them when they do. Focus on specific steps within food preparation and handling.
