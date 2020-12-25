@@ -367,3 +367,35 @@ title: Preventing Contamination
 5. Rinse food-contact surfaces
   - Use fresh water in a bucket or spray bottle and wipe to remove detergent
 ```
+
+57a. Integrated pest management (IPM)
+57b. A system that identify, manage, and reduce risk from pest infestation.
+
+58a. 2 goals of of IPM program
+58b.
+```
+1. Keep pests out of the facility
+2. Eliminate pests that made it into the facility
+```
+
+59a. Preventing pests
+59b.
+```
+1. Empty and clean trash cans often
+2. Put garbage bags in outside dumpster and keep dumpster closed
+3. Keep area around dumpster clean
+4. Keep doors and windows closed or covered by screens >= 16 mesh per square inch
+5. Install air curtains
+6. Fill gaps around pipes, walls, and floors
+7. Cover floor drains with grates
+```
+
+60a. Steps to take on signs of pests
+60b.
+```
+1. Record time, date, and location
+2. Report to a pest control operator (PCO)
+3. Never apply pesticides yourself
+4. keep pesticides in original containers away from food
+5. Remove food and cover food-contact surfaces before PCO comes
+```
