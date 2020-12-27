@@ -69,10 +69,10 @@ title: Active Managerial Control
 18b. Written records to track progress and adjust procedures in the future. Keep workers accountable.
 
 19a. Planned monitoring inspection
-19b. Offer special incentive for workers to learn how to do their jobs well.
+19b. Self-inspection that is announced to let the workers know so they can prepare for it. A way for workers to practice what they learned.
 
 20a. Unplanned monitoring inspection
-20b. Help you khnow if workers follow safety principles at all times.
+20b. Self-inspection to help you khnow if workers follow safety principles at all times.
 
 21a. What to do during inspection
 21b.

@@ -3,7 +3,7 @@ title: How Food Becomes Unsafe
 ---
 
 1a. How does food becomes unsafe
-1b. At any point from production to service, food can come into contact with hazards.
+1b. When hazards come into contact with food.
 
 2a. Food hazard
 2b. A food hazard is any item or substance that can make food dangerous to eat. 
@@ -20,7 +20,7 @@ title: How Food Becomes Unsafe
 4b. Any item in food that can choke, gag, cut, or injure a customer.
 
 5a. How physical hazards occur
-5b. Usually accidental but can also occur naturally. Accidental includes metal from equipment, plastic packaging, and hair or fingernails from workers. Natural includes bones, seeds, and fruit pits.
+5b. When physical items get into food. Usually accidental but can also occur naturally. Accidental includes metal from equipment, plastic packaging, and hair or fingernails from workers. Natural includes bones, seeds, and fruit pits.
 
 6a. Preventing physical hazards
 6b. Physical hazards should be removed during preparation. Unless a food item is normally expected to contain physical hazards, don't assume that customers will safely discover and remove them.
@@ -65,8 +65,8 @@ title: How Food Becomes Unsafe
 7. Maintain temperature control before, during, and after cooking
 ```
 
-15a. Risk of pathongen expsure
-15b. Being exposed to pathogen does not always result in illness. Risk level depends on type of pathogen.
+15a. Risk level of pathogen exposure
+15b. Risk level depends on type of pathogen. Being exposed to pathogen does not always result in illness.
 
 16a. Factors that affect illness
 16b.
@@ -109,7 +109,7 @@ title: How Food Becomes Unsafe
 ```
 
 26a. Parasites
-26b. Organisms that live in and causes harm to the host.
+26b. Organisms that live in and cause harm to the host.
 
 27a. How food allergies happen
 27b. A person's immune system reacts negatively to the proteins in a certain food.

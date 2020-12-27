@@ -50,10 +50,10 @@ title: Food Worker Health and Hygiene
 3. Allowed
 ```
 
-11a. Exclusion
+11a. Excluded
 11b. Workers are not allowed to work in the establishment at all.
 
-12a. Restriction
+12a. Restricted
 12b. Workers are not allowed to work with food or with clean food-contact surfaces but may perform other tasks in the establishment.
 
 13a. Work for restricted workers
@@ -127,13 +127,7 @@ title: Food Worker Health and Hygiene
 ```
 
 25a. Handling asymptomatic workers
-25b.
-```
-1. Serving HSP
-  - Workers must be excluded if diagnosed with Norovirus, Hepatitis A, Shigella, E. coli, and Salmonella Typhi. If diagnosed with Nontyphoidal Salmonella, workers are restricted.  
-2. Serving general pubic
-  - Workers must be excluded if diagnosed with Hepatitis A or Salmonella Typhi. If diagnosed with Norovirus, Shigella, E. coli, and Nontyphoidal Salmonella, workers are restricted.
-```
+25b. Workers must be excluded if diagnosed with Norovirus, Hepatitis A, Shigella, E. coli, and Salmonella Typhi. If diagnosed with Nontyphoidal Salmonella, workers are restricted. It is the same for both HSP and general public.
 
 26a. Worker-reported exposure
 26b. Workers are required to report to employer if they are exposed to Norovirus, Hepatitis A, Shigella, E. coli, and Salmonella Typhi. They are not required to report if exposed to Nontyphoidal Salmonella.
@@ -232,14 +226,14 @@ title: Food Worker Health and Hygiene
 ```
 
 42a. What is ready-to-eat food
-42b. Food that can be eaten as is, without any additional prepartion to achieve food safety.
+42b. Food that can be eaten as is, without any additional preparation to achieve food safety.
 
 43a. Bare-hand contact exceptions
 43b.
 ```
 1. Washing fruits and vegetables
 2. Establishment does not serve a HSP
-3. Local regu;atory authority approval
+3. Local regulatory authority approval
 4. Additional guidelines must be followed
 ```
 

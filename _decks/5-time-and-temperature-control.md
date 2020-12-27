@@ -99,10 +99,10 @@ title: Time and Temperature Control
 22b. Put thermometer in substance with known temperature and adjust thermometer to match. Use method that matches the temperature range of thermometer.
 
 23a. Ice point method
-23b. Measure freezing point of water at 32F.
+23b. Calibrate by measure freezing point of water at 32F.
 
 24a. Boiling point method
-24b. Measure boiling point of water at 212F.
+24b. Calibrate by measuring boiling point of water at 212F.
 
 25a. When to calibrate
 25b.
@@ -115,7 +115,7 @@ title: Time and Temperature Control
 26a. Thick food temperature
 26b. Insert thermometer into thickest part of the food.
 
-27a. Liquid food temperature
+27a. Measuring liquid food temperature
 27b. Stir it to disperse heat evenly and insert thermometer into the center.
 
 28a. Even thickness temperature
@@ -124,7 +124,7 @@ title: Time and Temperature Control
 29a. Receiving temperature
 29b. Hot TCS food must be >= 135F. Cold TCS food at <= 41F. Eggs at <= 45F.
 
-30a. Cold storage
+30a. Guidelines for cold storage
 30b.
 ```
 1. Don't overload refrigerators and freezers
@@ -145,10 +145,10 @@ title: Time and Temperature Control
 32a. First in, first out (FIFO)
 32b. First food item produced should be the first item used if not past use-by date.
 
-33a. Shelf order
-33b. Food that must be cooked to highest temperature is on the bottom.
+33a. Shelf order temperatures
+33b. Food that must be cooked to higher temperature is on the bottom.
 
-34a. Thawing
+34a. Guidelines for thawing
 34b.
 ```
 1. One day of thawing for every 5 pounds of food
@@ -186,7 +186,7 @@ title: Time and Temperature Control
 38a. 145F for 4 minutes
 38b. Roasts
 
-39a. 135F
+39a. 135F holding
 39b. Hot-held food not fit one of other temperatures (fruits, vegetables, RTE).
 
 40a. Microwave cooking
@@ -201,7 +201,7 @@ title: Time and Temperature Control
 41a. Non-continuous cooking
 41b. Food is partially cooked, then cooled, and stored for a time before being cooked again.
 
-42a. Process of non-continuous cooking
+42a. Guidelines for non-continuous cooking
 42b.
 ```
 1. Not be heated for longer than 1 hour
@@ -234,14 +234,14 @@ title: Time and Temperature Control
 5. Do not re-serve any foods to or from isolated patients
 ```
 
-46a. Cooling process
+46a. Time for cooling food
 46b.
 ```
 1. No more than 2 hours between 135F to 70F
 2. No more than 6 hours of total cooling time
 ```
 
-47a. Cooling methods
+47a. Methods for cooling foods
 47b.
 ```
 1. Smaller portions
@@ -261,7 +261,7 @@ title: Time and Temperature Control
 4. Use stoves, ovens, or microwaves to reheat
 ```
 
-49a. Hot and cold holding
+49a. Guidelines for hot and cold holding
 49b.
 ```
 1. Hot TCS foods >= 135F
@@ -329,5 +329,5 @@ title: Time and Temperature Control
 2. Label that includes name, ingredients, nutrition information
 ```
 
-56a. Packaged raw meat
+56a. Packaged raw meat label
 56b. Must be labeled with instructions for handling the food safely.
