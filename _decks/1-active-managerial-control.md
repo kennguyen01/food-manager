@@ -79,6 +79,7 @@ title: Active Managerial Control
 ```
 1. Ask for inspector's identification
 2. Accompany the inspector and take notes
+3. Regulatory authority should point out and correct violations during inspection
 3. Make changes according to gaps in your active managerial control
 ```
 
@@ -117,3 +118,28 @@ title: Active Managerial Control
 
 30a. Critical limit
 30b. Measurable or observable parameter that must be achieved to control a hazard.
+
+31a. Who is the most responsible for training new staff
+31b. The certified food manager (CFM) is the one who has studied and passed the exam for food safety.
+
+32a. Corrective action
+32b. A corrective action is when an unsafe practice is discovered and action is taken to stop it from happening again.
+
+33a. What is a variance
+33b. Variance is a document issued by your regulatory authority that allows a requirement to be waived or changed.
+
+34a. When is a variance needed
+34b.
+```
+1. Offering live shellfish from display tank
+2. Smoking foods to preserve
+3. Packaging fresh juice on site
+4. Using additives for preserve
+5. Curing food
+6. Custom processed animals
+7. ROP pakacing
+8. Sprouting seeds or beans
+```
+
+35a. Which government authority regulates food services
+35b. State and local health departments.

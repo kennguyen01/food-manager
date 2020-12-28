@@ -359,13 +359,15 @@ title: Preventing Contamination
 56a. Steps to clean in place
 56b.
 ```
-1. Turn off and unplug equipment before cleaning it
+1. Unplug equipment
 2. Pre-clean by removing large food particles
 3. Remove any small, removable parts. Clean and sanitize them
 4. Wash the equipment with detergent or similar cleaner
   - Clean under and around the equipment
 5. Rinse food-contact surfaces
   - Use fresh water in a bucket or spray bottle and wipe to remove detergent
+6. Sanitize all surfaces according to manufacturer's instructions
+7. Air dry all surfaces before reassembling
 ```
 
 57a. Integrated pest management (IPM)
@@ -398,4 +400,30 @@ title: Preventing Contamination
 3. Never apply pesticides yourself
 4. keep pesticides in original containers away from food
 5. Remove food and cover food-contact surfaces before PCO comes
+```
+
+61a. Best approach to dealing with pests
+61b.
+```
+1. Deny pests access to the establishment
+2. Deny pests food, water, and shelter
+3. Work with a licensed PCO
+```
+
+62a. ALERT for deliberate contamination
+62b.
+```
+1. Assure that product came from safe sources
+2. Look an monitor establishment
+3. Employee should be vetted
+4. Report suspicious behaviors
+5. Threat should be identified and reported
+```
+
+63a. Signs of cockroaches
+63b.
+```
+1. Egg casings
+2. Droppings that look like black peppers
+3. Strong oily smells
 ```

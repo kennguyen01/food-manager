@@ -77,7 +77,7 @@ title: Time and Temperature Control
 15a. Bimetallic stem thermometer
 15b. Good for checking temperature of large, thick food. Usually from 0F to 220F. Insert into thickest part of food and wait 30 seconds.
 
-16a. Digital thermometer
+16a. Digital thermometer (thermocouple)
 16b. Fast reading. Measure with the tip of probe. Good for thin and thick food.
 
 17a. Infrared thermometer
@@ -122,7 +122,7 @@ title: Time and Temperature Control
 28b. Measure in several places
 
 29a. Receiving temperature
-29b. Hot TCS food must be >= 135F. Cold TCS food at <= 41F. Eggs at <= 45F.
+29b. Hot TCS food must be >= 135F. Cold TCS food at <= 41F. Milk, eggs, and shellfish at <= 45F.
 
 30a. Guidelines for cold storage
 30b.
@@ -167,11 +167,11 @@ title: Time and Temperature Control
 4. Dishes with previously cooked foods
 ```
 
-36a. 155F for 15 seconds
+36a. 155F for 17 seconds
 36b.
 ```
 1. Meats other than poultry that have been tenderized or injected
-  - Beef, pork, seafood
+  - Beef, pork, and seafood
 2. Hot-held eggs
 ```
 
@@ -186,7 +186,7 @@ title: Time and Temperature Control
 38a. 145F for 4 minutes
 38b. Roasts
 
-39a. 135F holding
+39a. 135F for any amount of time
 39b. Hot-held food not fit one of other temperatures (fruits, vegetables, RTE).
 
 40a. Microwave cooking
@@ -331,3 +331,26 @@ title: Time and Temperature Control
 
 56a. Packaged raw meat label
 56b. Must be labeled with instructions for handling the food safely.
+
+57a. Why ground meat is cooked to higher temperature than whole meats
+57b. More pathogens reside on the outside of meat and grinding redistributes the pathogens throughout the meat.
+
+58a. Are coolers and freezers acceptable for cooling foods
+58b. No, they are not designed to cool food quickly. All hot TCS foods should be cooled before storage. 
+
+59a. Why hot running water cannot be used for thawing food
+59b. Because the outside of the meat will be in the temperature danger zone while the inside is still frozen.
+
+60a. What can be done if hot held temperature dropped in 2 hours
+60b. Quickly bring the food back to the correct temperature. If it has been more than 4 hours, it should be discarded.
+
+61a. Temperature range that pathogens grow most rapidly
+61b. 70F to 125F.
+
+62a. When an establishment can display TCS without tempeature control
+62b.
+```
+1. Prepare written procedures and approval from regulatory authority
+2. Maintain those procedures in operation
+3. Procedures made available on request
+```

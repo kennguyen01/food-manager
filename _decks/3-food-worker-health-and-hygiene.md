@@ -277,3 +277,9 @@ title: Food Worker Health and Hygiene
 4. Handwashing practices
 5. Glove use
 ```
+
+48a. What symptom must be reported if a food handler has it
+48b. Jaundice is a special concern because the virus cannot be killed by regular cooking method. Hepatitis A is not curable and there are limited treatments.
+
+49a. What is only acceptable jewelry
+49b. A plain band ring.

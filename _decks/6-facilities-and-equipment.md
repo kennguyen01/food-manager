@@ -205,3 +205,39 @@ title: Facilities and Equipment
 
 33a. Cleaning program
 33b. Teach employees to clean surface and equipment on a regular schedule.
+
+34a. Where should scoop of ice be stored
+34b. In a protected and designated location.
+
+35a. How to heat-sanitize equipment
+35b. Equipments must be soaked for at least 30 seconds in hot water >= 171F.
+
+36a. 5 types of probed thermometers
+36b.
+```
+1. Immersion probes for liquids
+2. Bimetallic stem for thick foods
+3. Surface probes for flat surfaces
+4. Penetration probes for thin foods
+5. Air probes for ovens and coolers
+```
+
+37a. What is a coving
+37b. Coving is an edging that runs along the wall near the floow and create a curved surface so that it's easier to clean.
+
+38a. What is a grease trap
+38b. A plumbing fixture that prevents the grease from buildup and blocking the drains.
+
+39a. What information a dishwashing machines should measure
+39b.
+```
+1. Water temperature
+2. Water pressure
+3. Concentration of cleaning and sanitizing agents
+```
+
+40a. Minimum temperature of final rinse of dishwashing machine
+40b. 180F.
+
+41a. Height of tabletop equipments
+41b. Tabletop equipments should be sealed to the table or raised 4 inches.

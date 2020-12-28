@@ -76,7 +76,7 @@ title: How Food Becomes Unsafe
 ```
 
 17a. Highly susceptible population (HSP)
-17b. People who are more vulnerable and can die from foodborne illness. This includes young children, the elderly, and immunocompromised people.
+17b. People who are more vulnerable and can die from foodborne illness. This includes young children (preschool), the elderly, and immunocompromised people.
 
 18a. Immunocompromised
 18b. A person's immune system is weak due to a specific condition. Pregnant women, transplant patients, those with AIDS or cancer.
@@ -144,3 +144,12 @@ title: How Food Becomes Unsafe
 
 34a. What to do when customer has allergic reaction
 34b. Call 911 right away and inform your manager. Don't get in the way if customer has a way to treat their reaction.
+
+35a. When is a foodborne illness considered an outbreak
+35b. When at least 2 people experience the same symptoms after eating the same food.
+
+36a. Which food usually contains E. coli
+36b. E. coli can be found in the intestines of cattle. The pathogen come into contact with the rest of the meat when the cow is slaughtered.
+
+37a. Which type of pathogen is usually not destroyed during cooking
+37b. Some viruses cannot be killed with high temperatures. They must be prevented through good personal hygiene.
