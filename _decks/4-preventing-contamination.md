@@ -427,3 +427,9 @@ title: Preventing Contamination
 2. Droppings that look like black peppers
 3. Strong oily smells
 ```
+
+64a. What rule for serving bread should food handlers practice
+64b. Do not re-serve uneaten bread.
+
+65a. What should staff do when receiving a delivery of food and supplies
+65b. Visually inspect all food items.

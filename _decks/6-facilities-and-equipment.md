@@ -241,3 +241,12 @@ title: Facilities and Equipment
 
 41a. Height of tabletop equipments
 41b. Tabletop equipments should be sealed to the table or raised 4 inches.
+
+42a. Bulk unpackaged food label
+42b. Bulk unpackaged food does not need a label if the product does not make a claim about health or nutrient content.
+
+43a. What information must be posted on a dishwasher
+43b. Correct settings
+
+44a. What thermometer is best for checking final rinse temperature
+44b. Maximum registering thermometer.

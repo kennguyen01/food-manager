@@ -143,3 +143,9 @@ title: Active Managerial Control
 
 35a. Which government authority regulates food services
 35b. State and local health departments.
+
+36a. Which organization includes inspecting food as one of its primary responsibilities
+36b. U.S. Department of Agriculture
+
+37a. What organization requires a SDS to be included with chemicals
+37b. Occupational Safety and Health Administration

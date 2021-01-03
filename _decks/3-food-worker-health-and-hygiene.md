@@ -283,3 +283,6 @@ title: Food Worker Health and Hygiene
 
 49a. What is only acceptable jewelry
 49b. A plain band ring.
+
+50a. Which food item has been associated with Salmonella Typhi
+50b. Beverages

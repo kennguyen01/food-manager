@@ -354,3 +354,9 @@ title: Time and Temperature Control
 2. Maintain those procedures in operation
 3. Procedures made available on request
 ```
+
+63a. When can raw, unpackaged meat be offered for self-service
+63b. At Mongolian barbeques.
+
+64a. What should food handler do with food after it thawed in the microwave
+64b. Cook it using conventional cooking equipment.
